@@ -3,7 +3,7 @@
     <property name="created">2020-01-22T12:58:07</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-01-22T13:07:29</property>
+    <property name="modified">2020-01-23T11:05:58</property>
     <property name="originalScheme">Custom copy</property>
   </metaInfo>
   <colors>
@@ -73,6 +73,30 @@
       <value>
         <option name="FOREGROUND" value="f000f0" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="2c582c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="2c582c" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2c582c" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="6a4635" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="2c582c" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
