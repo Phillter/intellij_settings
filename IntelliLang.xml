@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript" injector-id="js">
+      <display-name>EJS Injections</display-name>
+      <place><![CDATA[jsLiteralExpression().withText(string().matches("<%(.+)%>"))]]></place>
+    </injection>
+  </component>
+</application>
