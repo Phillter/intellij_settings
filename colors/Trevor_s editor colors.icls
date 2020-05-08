@@ -3,7 +3,7 @@
     <property name="created">2020-01-22T12:58:07</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-01-23T11:05:58</property>
+    <property name="modified">2020-05-08T15:37:50</property>
     <property name="originalScheme">Custom copy</property>
   </metaInfo>
   <colors>
@@ -137,7 +137,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="81ff" />
+        <option name="FOREGROUND" value="4fff" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -191,6 +191,18 @@
       </value>
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JS.NULL_UNDEFINED">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.PRIMITIVE">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="LOG_INFO_OUTPUT">
       <value />
     </option>
