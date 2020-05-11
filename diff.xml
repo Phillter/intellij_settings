@@ -50,6 +50,11 @@
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
+        </PlaceSettings>
+      </entry>
       <entry key="VcsLogView">
         <PlaceSettings />
       </entry>
