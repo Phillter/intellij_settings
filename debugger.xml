@@ -114,7 +114,7 @@
     <general />
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration watchReturnValues="true">
           <custom-object-presentation />
         </configuration>
       </debugger>
