@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.ejs" type="JavaScript" />
       <mapping pattern="vods" type="JavaScript" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
