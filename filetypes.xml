@@ -1,15 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.js.ejs" type="JavaScript" />
       <mapping pattern="vods" type="JavaScript" />
       <mapping pattern="vodTest" type="JavaScript" />
-      <mapping pattern="seriesSeasonSearchPopup" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern="seriesSeasonSearchPopup" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
