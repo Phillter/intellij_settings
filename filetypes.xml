@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="*.js.ejs" type="JavaScript" />
       <mapping pattern="vods" type="JavaScript" />
       <mapping pattern="vodTest" type="JavaScript" />
